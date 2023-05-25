@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans Condensed', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(24, 32, 24);
+ 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  text-decoration:none;
+  color: rgb(235, 227, 227);
+}
+a{
+  text-decoration-color:white ;
+}
+
+
+* {
+   border-radius: 3%;
+   //@media screen {
+    //margin-top: 0,1%;
+   //};
+  
+}
